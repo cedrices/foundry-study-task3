@@ -1,0 +1,5 @@
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 28733, ~: 29355)
+CounterTest:test_Divide() (gas: 29956)
+CounterTest:test_Increment() (gas: 28893)
+CounterTest:test_Multiply() (gas: 30070)
+CounterTest:test_SetNumber() (gas: 29201)
